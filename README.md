@@ -30,5 +30,5 @@ store the contents of the site in an S3 and utilize Cloudfront since this will b
 
 The tech stack for this project will utilize the following: (list will be updated as new stuff is added or plans change)
 
-- REACT
+- NextJS (REACT, TypeScript)
 - Python
