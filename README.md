@@ -8,8 +8,9 @@ fun features to my site, but that'll come after I actually make it.
 
 As I write this before I've gotten any work done, here's the current plan: design a single page website for introducing myself.
 
--1. Initialize the Github repo (Done!)
-0.  Build the initial REACT application and push to repo so that I can start work.
+- Initialize the Github repo (Done!)
+- Build the initial REACT application and push to repo so that I can start work.
+  
 1.  Design the layout of my site and decide what information it'll contain.
 2.  Build the components needed to satisfy the design I come up with.
 3.  Slap the components onto my page and finish building the first iteration of my site.
