@@ -1,12 +1,11 @@
 import React from "react"
+import Header from "./components/header/header"
 import "./globals.css"
 
 export default function Home() {
   return (
-    <main >
-      <div>
-        <h1 className={"page_title"}>This is my Site!</h1>
-      </div>
-    </main>
+    <div >
+        <Header />
+    </div>
   )
 }
