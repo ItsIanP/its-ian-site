@@ -1,12 +1,24 @@
 /*!************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
   !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[5].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[5].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[5].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[5].oneOf[9].use[5]!./src/app/components/header/header.module.scss ***!
   \************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
-.header_page_title__qC06p {
-  font-size: 50px;
-}
-
 .header_root_style__X_gE1 {
   display: flex;
   flex-direction: row;
   gap: 50px;
+  background-color: rgb(111, 130, 143);
+}
+
+.header_header_image__NRaJW {
+  width: 400px;
+  height: 200px;
+  padding-top: 50px;
+  padding-left: 30px;
+}
+
+.header_page_title__qC06p {
+  font-size: 30px;
+}
+
+s .header_header_intro__X4yUN {
+  font-size: 20px;
 }

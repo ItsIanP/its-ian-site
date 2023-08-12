@@ -1,9 +1,23 @@
-.page_title {
-    font-size: 50px;
-}
-
 .root_style {
     display: flex;
     flex-direction: row;
     gap: 50px;
+    background-color: rgb(111, 130, 143)
+}
+
+.header_image {
+    width: 400px;
+    height: 200px;
+    padding-top: 50px;
+    padding-left: 30px;
+    
+}
+
+.page_title {
+    font-size: 30px;
+}
+s
+
+.header_intro {
+    font-size: 20px;
 }
